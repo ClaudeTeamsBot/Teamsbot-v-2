@@ -1,0 +1,11 @@
+{
+  "teams_email": "deine_teams_mail@example.com",
+  "teams_password": "DEIN_TEAMS_PASSWORT",
+  "chatgpt_email": "deine_chatgpt_mail@example.com",
+  "chatgpt_password": "DEIN_CHATGPT_PASSWORT",
+  "bot_trigger": "@bot",
+  "check_interval": 10,
+  "headless": false,
+  "max_retries": 3,
+  "retry_delay": 30
+}
